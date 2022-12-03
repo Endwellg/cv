@@ -1,0 +1,38 @@
+hI {
+    text-align: center;
+    color:blue;
+    font-variant: small-caps;
+}
+
+li {
+    color: red;
+    text-transform: capitalize;
+}
+
+#Example {
+    color:green;
+        width: 100%;
+        height: 400px;
+        background-image: url(https://imageio.forbes.com/specials-images/imageserve/626dbb4c8087cf05a0834a29/Mozilla--Firefox--Firefox-update-guide--update-Firefox--Firefox-security--Firefox/960x0.jpg?format=jpg&width=960), url(https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-01/220121-soap-bubbles-stock-mn-1200-86cbf9.jpg), linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0));
+        background-repeat: no-repeat, no-repeat, no-repeat;
+        background-position: bottom right, left, right;
+      
+}
+
+.div1 {
+    border: 1px solid black;
+    background: url(https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-01/220121-soap-bubbles-stock-mn-1200-86cbf9.jpg);
+    background-size: 1330px 200px;
+    background-repeat: no-repeat;
+    color: blue;
+    padding: 15px;
+}
+
+html {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqPnt86tOMLkWjQQGyLkHq3AwM4F0KW8VQw&usqp=CAU) no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    color: white;
+}

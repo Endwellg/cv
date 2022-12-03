@@ -1,0 +1,60 @@
+.div1 {
+    width: 300px;
+    height: 150px;
+    background-color: pink;
+    border: 1px solid black;
+    transform: (550px, 100px);
+}
+div {
+    width: 300px;
+    height: 100px;
+    background-color: crimson;
+    border: 1px solid black;
+}
+div#div3 {
+    transform: rotate(25deg);
+}
+
+.divv {
+    width: 300px;
+    height: 100px;
+    background-color: crimson;
+    border: 1px solid black;  
+}
+
+div#div4 {
+    transform: rotate(-25deg);
+}
+
+#scale {
+    margin: 150px;
+   
+    width: 200px;
+    height: 100px;
+    background-color: orangered;
+    border: 1px solid black;
+    transform: scale(2,3);
+}
+
+div {
+    width: 300px;
+    height: 100px;
+    background-color: lime;
+    border: 1px solid black;
+  }
+  
+  div.skew2 {
+    transform: skewX(20deg);
+  }
+
+  div.skewy {
+    transform: skewY(20deg);
+  }
+
+  div.matrix1 {
+    transform: matrix(1 ,-0.3, 0, 1, 0, 0);
+  }
+
+  div.matrix2  {
+    transform: matrix(1, 0, 0.5, 1, 150, 0);
+  }
